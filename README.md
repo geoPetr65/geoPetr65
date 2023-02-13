@@ -1,10 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/ee/29/98/ee2998cdb1cf6a6bf66bf65fe0076fd2.gif)]
-### 🎓 Georgios Petrisis
+# 🎓 Georgios Petrisis
 I gave coding a shot in highschool thinking I might like it and it turned out I did!
 
-Although, most my experience lies in OOP languages, I have been trying to branch out and learn new things as I have lots to learn and try.
+Although, most my experience lies in OOP, I have been trying to branch out and learn new things as I have lots to learn and try.
 
-Being comfortable with C based languages and wanting to expand my knowledge of the linux environment I have also began onboarding for UW's Midnight Sun firmware subteam [https://www.uwmidsun.com/]
+Being comfortable with C based languages and wanting to expand my knowledge of the linux environment and bash, I have also began onboarding for UW's Midnight Sun firmware subteam [https://www.uwmidsun.com/]
 
 ## I'm a Mechtronics Engineering Student from the University of Waterloo
 - 🌱 I’m currently learning javascript using React
@@ -25,8 +24,6 @@ Being comfortable with C based languages and wanting to expand my knowledge of t
 <br />   
 
 #
-<br />
-
 ### Find me elsewhere:
 
 [<img align="left" alt = "Java" width = "30px" style = "padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
