@@ -1,5 +1,5 @@
 # 🎓 Georgios Petrisis
-I am a first year Mechatronics student at the University of Waterloo looking to expand my knowledge on software.
+I am a Mechatronics student at the University of Waterloo looking to expand my knowledge on software.
 
 ---
 ### 🔧🧰 Languages and Tools
